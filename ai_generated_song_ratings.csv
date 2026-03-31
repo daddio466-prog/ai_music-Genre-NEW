@@ -1,0 +1,51 @@
+platform,genre,prompt_length,user_rating,listen_count
+Suno,lofi,3,5,800
+Ace Studio,jazz,8,4,1862
+Suno,electronic,4,3,162
+Udio,orchestral,7,3,1522
+Ace Studio,hip hop,9,4,368
+Ace Studio,rock,12,4,1807
+Udio,ambient,3,1,1682
+Udio,orchestral,5,3,1434
+Suno,electronic,7,3,105
+Ace Studio,electronic,4,5,1309
+Ace Studio,lofi,6,5,901
+Suno,electronic,4,1,1734
+Suno,hip hop,6,2,275
+Suno,electronic,8,4,965
+Suno,rock,9,4,1601
+Udio,ambient,12,5,1124
+Udio,hip hop,7,3,120
+Suno,ambient,7,2,1366
+Suno,ambient,9,4,1801
+Udio,lofi,8,3,1207
+Ace Studio,orchestral,6,1,435
+Ace Studio,electronic,9,5,1317
+Udio,orchestral,10,3,344
+Suno,hip hop,11,1,867
+Suno,lofi,6,3,972
+Suno,lofi,6,3,1445
+Suno,orchestral,7,5,855
+Ace Studio,ambient,12,2,993
+Suno,electronic,10,5,1530
+Suno,hip hop,4,4,540
+Ace Studio,hip hop,4,4,1386
+Ace Studio,lofi,12,3,1192
+Suno,ambient,9,1,349
+Suno,lofi,6,1,419
+Ace Studio,rock,4,2,172
+Udio,ambient,6,4,1617
+Ace Studio,rock,6,1,1377
+Udio,orchestral,4,2,1003
+Ace Studio,hip hop,4,1,1001
+Udio,rock,4,3,358
+Udio,jazz,7,1,1874
+Udio,electronic,5,1,1537
+Suno,rock,12,1,1742
+Ace Studio,electronic,7,2,1352
+Udio,electronic,10,2,1817
+Udio,orchestral,8,3,1709
+Ace Studio,jazz,9,4,909
+Udio,hip hop,10,1,1104
+Ace Studio,ambient,4,1,1026
+Ace Studio,hip hop,6,1,1127
